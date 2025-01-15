@@ -1,8 +1,0 @@
-1. first check date filters for both visuals.
-2. Check the aggregation logic for both visuals (like sum, count)(gross_sla_check(count),Shipping_request_id(sum)).
-3. in stacked bar combo chart --XBR date (week wise)or not check
-4. two fisual calculated fields are check its correct or wrong
-5. All filters are check in both visuals
-6. once again filters and fields check. 
-
-
